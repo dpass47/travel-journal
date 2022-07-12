@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/travel-journal/static/css/main.e837dc11.css",
+    "main.js": "/travel-journal/static/js/main.20bf95d3.js",
+    "static/media/estes-park.jpg": "/travel-journal/static/media/estes-park.08335c57022ad37ddf2e.jpg",
+    "static/media/bear-lake-id.jpg": "/travel-journal/static/media/bear-lake-id.0cd97b534fcf1a6c0f3b.jpg",
+    "static/media/mt-evans.jpg": "/travel-journal/static/media/mt-evans.f5bb0dd50098c9585b05.jpg",
+    "static/media/pikes-peak.jpg": "/travel-journal/static/media/pikes-peak.f28779171f20aa469409.jpg",
+    "static/media/dallas-tx.jpg": "/travel-journal/static/media/dallas-tx.9f0e34a940ef1485361a.jpg",
+    "static/media/slc-ut.jpg": "/travel-journal/static/media/slc-ut.71297fcce9d0f0d5a3c8.jpg",
+    "index.html": "/travel-journal/index.html",
+    "main.e837dc11.css.map": "/travel-journal/static/css/main.e837dc11.css.map",
+    "main.20bf95d3.js.map": "/travel-journal/static/js/main.20bf95d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e837dc11.css",
+    "static/js/main.20bf95d3.js"
+  ]
+}
