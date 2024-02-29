@@ -1,4 +1,16 @@
+/* Copyright (c) 2024 Dante Passalacqua */
+
 const data = [
+	{
+		id: 9,
+		title: 'Royal Gorge Route Railroad',
+		description:
+			'The Royal Gorge Route Railroad is a heritage railroad based in Cañon City, Colorado. A 1950s-era train makes daily 2-hour excursion runs from the Santa Fe Depot through the Royal Gorge along a famous section of the former Denver and Rio Grande Western Railroad.',
+		coverImg: 'royal-gorge.jpg',
+		dates: '16 Sept 2023',
+		location: 'Colorado',
+		maps: 'https://maps.app.goo.gl/TJAGLwxvw3hidJm3A',
+	},
 	{
 		id: 8,
 		title: 'Twin Lakes',
