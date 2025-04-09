@@ -14,18 +14,39 @@
 
 	--clr-light: #fff;
 	--clr-dark: #2b283a;
-	--clr-accent: #918e9b;
+	--clr-accent: #aba7b8;
+}
+
+body {
+	background-color: #1e1e1e;
+}
+
+.hero-container {
+	background-color: #6200ee;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .hero {
 	padding: 1em 0;
 	display: flex;
-	justify-content: center;
 	align-items: center;
-	background-color: #f55a5a;
 	color: #fff;
-	box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
 	font-weight: var(--fw-medium);
+}
+
+.dark-mode-icon {
+	height: 32px;
+	width: 32px;
+	fill: #fff;
+	padding-right: 0.5em;
+	display: flex;
+}
+
+.dark-mode-icon:hover {
+	cursor: pointer;
 }
 
 .world-icon {
@@ -48,7 +69,7 @@ section {
 	display: flex;
 	align-items: flex-start;
 	margin-bottom: 2em;
-	color: var(--clr-dark);
+	color: var(--clr-light);
 	padding-bottom: 2em;
 	border-bottom: 2px solid rgba(0, 0, 0, 0.05);
 }
