@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a76f1809.css",
-    "main.js": "/static/js/main.c01150f4.js",
+    "main.css": "/static/css/main.c4e43ce0.css",
+    "main.js": "/static/js/main.21f5ca55.js",
     "static/media/zion.jpg": "/static/media/zion.dfb3368e280614ededf4.jpg",
     "static/media/estes-park.jpg": "/static/media/estes-park.08335c57022ad37ddf2e.jpg",
     "static/media/bear-lake-id.jpg": "/static/media/bear-lake-id.0cd97b534fcf1a6c0f3b.jpg",
@@ -12,12 +12,14 @@
     "static/media/dallas-tx.jpg": "/static/media/dallas-tx.9f0e34a940ef1485361a.jpg",
     "static/media/slc-ut.jpg": "/static/media/slc-ut.71297fcce9d0f0d5a3c8.jpg",
     "static/media/sand-dunes.jpg": "/static/media/sand-dunes.f459bb308d2d83e7a871.jpg",
+    "static/media/sun-solid.svg": "/static/media/sun-solid.f8b22bb778a8a0630bb1910849ea0256.svg",
     "index.html": "/index.html",
-    "main.a76f1809.css.map": "/static/css/main.a76f1809.css.map",
-    "main.c01150f4.js.map": "/static/js/main.c01150f4.js.map"
+    "static/media/moon-solid.svg": "/static/media/moon-solid.8e881ad8337aee23be3f7cddd6b6d3f0.svg",
+    "main.c4e43ce0.css.map": "/static/css/main.c4e43ce0.css.map",
+    "main.21f5ca55.js.map": "/static/js/main.21f5ca55.js.map"
   },
   "entrypoints": [
-    "static/css/main.a76f1809.css",
-    "static/js/main.c01150f4.js"
+    "static/css/main.c4e43ce0.css",
+    "static/js/main.21f5ca55.js"
   ]
 }
